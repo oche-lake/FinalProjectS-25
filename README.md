@@ -1,5 +1,7 @@
 ## Find A Pokemon Card  <br/> 
-###  Recording:<br/> 
+###  Demostration:<br/> 
+* <img width="353" alt="Screenshot 2025-04-22 at 1 05 40 PM" src="https://github.com/user-attachments/assets/26b11873-6882-4988-9381-f47252f80105" />
+
   * [Final_Record.mov.zip](https://github.com/user-attachments/files/19853593/Final_Record.mov.zip)
 ### Description:
   * On the Welcome page you can switch between light and dark mode, and see the trainer ID card, or choose to edit it.
