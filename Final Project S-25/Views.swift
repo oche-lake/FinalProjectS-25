@@ -33,7 +33,7 @@ struct Describe: View{
     var body: some View{
         Form{
             ZStack{
-                TextField("Desctription of Yourself", text:$user.description, axis: .vertical)
+                TextField("Introduce yourself", text:$user.description, axis: .vertical)
                     .padding(4)
                     .lineLimit(3...8)
             }
